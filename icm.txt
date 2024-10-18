@@ -1,1 +1,2 @@
-vless://41a0be0d-bc18-4b83-8ceb-58668e8d0014@freeapp.serveblog.net:57832?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=firefox&type=tcp&sni=freeapp.serveblog.net#G2-vless-2
+vless://b80b43a9-37c3-470b-9ac5-fe4fd6c52288@149.18.71.129:57571?security=none&encryption=none&headerType=none&type=tcp#H2-vless-2
+vless://22cffc1a-e1d2-4858-8644-60c87cce49bc@freeapp.serveblog.net:44977?security=none&encryption=none&headerType=none&type=tcp#Reserve-A
