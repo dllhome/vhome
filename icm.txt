@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiI0NS4xNTIuODQuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwMWMwOGMyLThiMzMtNDllOC1hMGZhLWU1NmRjYTAyODYxYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEzNTciLCJwcyI6IkItYWRzbC0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://41a0be0d-bc18-4b83-8ceb-58668e8d0014@freeapp.serveblog.net:57832?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=firefox&type=tcp&sni=freeapp.serveblog.net#G2-vless-2
