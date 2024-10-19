@@ -1,2 +1,2 @@
-vless://b80b43a9-37c3-470b-9ac5-fe4fd6c52288@149.18.71.129:57571?security=none&encryption=none&headerType=none&type=tcp#H2-vless-2
+vless://22cffc1a-e1d2-4858-8644-60c87cce49bc@freeapp.serveblog.net:44977?security=none&encryption=none&headerType=none&type=tcp#Reserve-A
 vless://22cffc1a-e1d2-4858-8644-60c87cce49bc@freeapp.serveblog.net:44977?security=none&encryption=none&headerType=none&type=tcp#Reserve-A
