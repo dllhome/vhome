@@ -1,1 +1,2 @@
-vless://0adc1487-8627-4cdb-950f-d9dff04d6d28@194.36.170.60:13904?security=&encryption=none&headerType=&type=tcp#A1-1
+vless://75856a50-4cc1-4aa8-b644-b322fce5db38@194.36.170.60:26581?security=&encryption=none&headerType=&type=tcp#AA-1
+vmess://eyJhZGQiOiIxOTQuMzYuMTcwLjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVhYzE5NWM0LTY2NjUtNDUwNy1hMGFhLWU2MDc1MWRmOGY4MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTQ3MDEiLCJwcyI6IkFCLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
